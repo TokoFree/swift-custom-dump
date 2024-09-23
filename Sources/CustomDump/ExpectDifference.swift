@@ -1,4 +1,4 @@
-import IssueReporting
+import XCTestDynamicOverlay
 
 /// Expects that a value has a set of changes.
 ///
